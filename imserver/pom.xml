@@ -6,8 +6,8 @@
 <!--        <artifactId>maven</artifactId>-->
 <!--        <groupId>org.example</groupId>-->
 <!--        <version>1.0-SNAPSHOT</version>-->
-    测试
-<!--    </parent>-->
+
+<!--    </parent>测试-->
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.shiku.imserver</groupId>
